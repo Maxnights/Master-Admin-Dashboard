@@ -5,6 +5,7 @@ React Admin Panel developed and build with **React (v17.0.2)**, **TypeScript (v4
 
 # Demo
 
+Visit: [Project React Admin Panel demo](https://master-admin-dashboard.vercel.app/)
 
 ![Figma admin panel sketch](src/assets/images/figma-sketch-v3.png)
 
